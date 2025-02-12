@@ -1,0 +1,39 @@
+{
+  "name": "my-react-app",
+  "version": "1.0.0",
+  "description": "This is a react practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/ranjeetkrsng/my-react-app.git"
+  },
+  "keywords": [
+    "React",
+    "Js",
+    "React",
+    "Project",
+    "Swiggy",
+    "Clone",
+    "Project"
+  ],
+  "author": "Ranjeet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjeetkrsng/my-react-app/issues"
+  },
+  "homepage": "https://github.com/ranjeetkrsng/my-react-app#readme",
+  "devDependencies": {
+    "@parcel/transformer-js": "^2.13.3",
+    "cross-env": "^7.0.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
