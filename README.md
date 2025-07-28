@@ -27,3 +27,28 @@ Project Structure:-
 - Client Side Routing
 - Server Side Routing
 */
+
+
+# Redux Toolkit
+- Install @reduxjs/toolkit and react-redux
+- Build our store
+- Connect our store too our app
+- Create (cartSlicce)
+- dispatch(action)
+- Selectoor
+
+
+# Types of testing (developer)
+- Unit Testing
+- Integration Testing
+- End to End Testing - e2e testing
+
+# Setting up Testing in our app
+- Install React Library
+- Installed Jest
+- Installed Babel dependencies
+- Configure Babel
+- Configure Parcel Config to disable default babel transpilation
+- Jest - npx jest --init
+- Install jsdom library
+y
